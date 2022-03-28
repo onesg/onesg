@@ -26,3 +26,9 @@
 ![Snake animation](https://github.com/onesg/onesg/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
