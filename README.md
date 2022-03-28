@@ -26,6 +26,8 @@
 ![Snake animation](https://github.com/onesg/onesg/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/onesg/testIssue/issues/1) in [onesg/testIssue](https://github.com/onesg/testIssue)
+<!--END_SECTION:activity-->
 
 
 
