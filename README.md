@@ -30,5 +30,3 @@
 
 
 
-
-<!--END_SECTION:activity-->
