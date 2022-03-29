@@ -1,6 +1,6 @@
 <!-- BADGE DE VISITANTES -->
 <a target="_blank" href="#">
-<img align="right" title="Contador de visitantes" alt="Contador de visitantes" src="https://visitor-badge.laobi.icu/badge?page_id=onesg.onesg&title=visitantes&left_color=grey&right_color=blue"></a>
+<img align="right" title="Contador de visualizações" alt="Contador de visualizações" src="https://visitor-badge.laobi.icu/badge?page_id=onesg.onesg&title=visualizacoes&left_color=grey&right_color=blue"></a>
 
 
 <!-- INICIO SAUDAÇÃO INICIAL -->
