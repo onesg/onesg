@@ -167,9 +167,9 @@
 <img title="🦜🦜 Clique para ter um bom dia! 🦜🦜" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="40px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/onesg/issue/issues/1) in [onesg/issue](https://github.com/onesg/issue)
-2. ❗️ Opened issue [#1](https://github.com/onesg/issue/issues/1) in [onesg/issue](https://github.com/onesg/issue)
-3. ❗️ Closed issue [#1](https://github.com/onesg/testIssue/issues/1) in [onesg/testIssue](https://github.com/onesg/testIssue)
+1. ❗️ Opened issue [#7](https://github.com/onesg/TestPublic/issues/7) in [onesg/TestPublic](https://github.com/onesg/TestPublic)
+2. ❗️ Opened issue [#6](https://github.com/onesg/TestPublic/issues/6) in [onesg/TestPublic](https://github.com/onesg/TestPublic)
+3. ❗️ Opened issue [#5](https://github.com/onesg/TestPublic/issues/5) in [onesg/TestPublic](https://github.com/onesg/TestPublic)
 <!--END_SECTION:activity-->
 
 
