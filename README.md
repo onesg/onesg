@@ -6,7 +6,7 @@
 <!-- INICIO SAUDAÇÃO INICIAL -->
 <h1 align="left">👾 Aooooooba! Seja muito bem-vindo(a)
 <!-- GIF DA MÃOZINHA -->
-<a target="_blank" href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
+<a target="_blank" href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a>
 
 </h1>
 <!-- FIM SAUDAÇÃO INICIAL -->
@@ -164,7 +164,7 @@
 
 <!-- IMAGEM PAPAGAIO BRASILEIRO DANÇANDO :P -->
 <a target="_blank" href="https://www.youtube.com/watch?v=HACvos_y5wM">
-<img title="🦜🦜 Clique para ter um bom dia! 🦜🦜" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="40px" /></a></h3>
+<img title="🦜🦜 Clique para ter um bom dia! 🦜🦜" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="50" /></a></h3>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#7](https://github.com/onesg/TestPublic/issues/7) in [onesg/TestPublic](https://github.com/onesg/TestPublic)
